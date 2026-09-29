@@ -105,11 +105,11 @@ Built to feel like a shipped brand app
 ### Interface
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" alt="Screen 01"/>
+  <img src="screenshots/screenshhot1.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" alt="Screen 02"/>
+  <img src="screenshots/screenshhot2.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" alt="Screen 03"/>
+  <img src="screenshots/screenshhot3.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
